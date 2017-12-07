@@ -1,4 +1,4 @@
-## Smart band project
+## Smart band firmware project
 - Embedded system project for gesture recognition using wearable band 
 - 4 projects 
   - 2 projects per 2 defferent HW platforms
